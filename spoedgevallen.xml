@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><spoedgevallen>
+<registration birthdate="04/07/1996" date="11/08/2016 14:00:00" diagnose="Malaria" id="9" name="janine" nurse="Diane"/>
+<registration birthdate="04/07/1996" date="11/08/2016 16:00:00" diagnose="Malaria" id="10" name="jos" nurse="Diane"/>
+<registration birthdate="04/07/1996" date="11/08/2016 14:00:00" diagnose="Malaria" id="15" name="thomas" nurse="jos"/><registration birthdate="04/07/1996" date="16/08/2016 14:00:00" diagnose="Malaria" id="15" name="klok" nurse="jos"/><registration birthdate="04/07/1996" date="14/08/2016 14:00:00" diagnose="Malaria" id="15" name="bad" nurse="jos"/></spoedgevallen>
