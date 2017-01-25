@@ -1,0 +1,1 @@
+Het grote verschil tussen SOAP en REST is dat Rest stateless is en http gebruikt dus je bent niet enkel gebonden aan xml en SOAP is stateful wat dus een fundamenteel verschil is ten opzichte van REST ook heb je bij soap geen andere keus dan xml gebruiken.

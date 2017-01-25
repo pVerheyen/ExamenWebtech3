@@ -1,0 +1,2 @@
+1: We kunenn ervoor zorgen dat er enkelidempotente methodes gebruikt worden en op die manier voor type safety zorgen.
+2: We kunnen ook xml gebruiken en die controleren aan de hand van xsd en op die manier ook zorgen voor type safety.
